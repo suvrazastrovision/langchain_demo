@@ -60,7 +60,3 @@ Always open the cited page and verify the result in context. Semantic similarity
 - Build a small web interface with clickable citations.
 
 The current in-memory index is rebuilt each time the script runs. PDF text is sent to the OpenAI API for embedding, so only use documents allowed by your data policy.
-
-## License
-
-[MIT](LICENSE)
