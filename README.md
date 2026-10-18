@@ -2,6 +2,8 @@
 
 A small semantic-search demo that finds relevant excerpts in local PDF articles. Results include the PDF filename, page number, relevance score, and excerpt text.
 
+Read my current blogpost : "placeholder"
+
 ## Setup
 
 ```powershell
