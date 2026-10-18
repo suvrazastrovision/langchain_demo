@@ -76,7 +76,9 @@ def print_evidence(query, results):
 
 
 def main():
-    query = "what are the synaptic weaknesses of the hippocampus during sleep?"
+    query = ( "How do inhibitory glutamatergic synapses between dorsal fan-shaped "
+    "body neurons generate slow-wave activity and regulate sleep pressure "
+    "in Drosophila?")
     documents = load_notes(DOCS_PATH)
     chunks = split_notes(documents)
     store = build_store(chunks)
