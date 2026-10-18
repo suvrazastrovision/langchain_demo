@@ -8,7 +8,7 @@
 
 > Because *"I remember reading that somewhere"* is not a reproducible research method.
 
-📖 [Read the complete hands-on tutorial](https://medium.com/@suvranath047/a-hands-on-langchain-tutorial-building-sherlock-pdf-for-smarter-scientific-literature-search-be56f5cde245?sharedUserId=suvranath047)
+📖 Read the complete hands-on tutorial on [Medium](https://medium.com/@suvranath047/a-hands-on-langchain-tutorial-building-sherlock-pdf-for-smarter-scientific-literature-search-be56f5cde245?sharedUserId=suvranath047)
 
 ## Why LangChain?
 
