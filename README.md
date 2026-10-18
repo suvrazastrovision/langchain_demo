@@ -52,11 +52,4 @@ Example:
 
 Always open the cited page and verify the result in context. Semantic similarity finds related text; it does not validate a scientific claim.
 
-## Next steps
-
-- Store embeddings in a persistent vector database.
-- Add OCR support for scanned papers.
-- Filter results by author, year, journal, or filename.
-- Build a small web interface with clickable citations.
-
 The current in-memory index is rebuilt each time the script runs. PDF text is sent to the OpenAI API for embedding, so only use documents allowed by your data policy.
